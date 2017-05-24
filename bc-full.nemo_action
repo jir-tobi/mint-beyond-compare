@@ -5,3 +5,4 @@ Exec=bcompare %F
 Icon-Name=bcomparefull32
 Selection=2
 Extensions=any;
+Quote=double
